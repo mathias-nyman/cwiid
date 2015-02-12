@@ -120,6 +120,7 @@ AC_OUTPUT(
 	[wminput/plugins/nunchuk_acc/Makefile]
 	[wminput/plugins/led/Makefile]
  	[wminput/plugins/nunchuk_stick2btn/Makefile]
+	[wminput/plugins/screwdriver/Makefile]
 	[lswm/Makefile]
 	[python/Makefile]
 	)
